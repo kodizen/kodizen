@@ -44,10 +44,6 @@ I believe in continuous learning and sharing knowledge. You'll often find me:
   </a>
 </div>
 
-## 📈 GitHub Stats
-
-![Kodizen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kodizen&show_icons=true&theme=dark)
-
 ---
 
 💡 *"The best code is no code at all. Every new line of code you willingly bring into the world is code that has to be debugged, code that has to be read and understood, code that has to be supported."*
