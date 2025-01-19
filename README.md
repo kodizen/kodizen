@@ -46,4 +46,4 @@ I believe in continuous learning and sharing knowledge. You'll often find me:
 
 ---
 
-💡 *"The best code is no code at all. Every new line of code you willingly bring into the world is code that has to be debugged, code that has to be read and understood, code that has to be supported."*
+💡 *"Make it work, make it right, make it fast"*
