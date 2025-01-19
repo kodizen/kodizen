@@ -26,7 +26,6 @@ Tools        : Vim/Neovim, Git, Unix
 I believe in continuous learning and sharing knowledge. You'll often find me:
 
 - Exploring new technologies and frameworks
-- Soon to be contributing to open source projects
 - Writing about software development best practices
 - Experimenting with developer tooling
 
